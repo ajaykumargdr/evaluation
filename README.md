@@ -1,5 +1,5 @@
 # Block Chain
-A blockchain is a decentralized and immutable digital ledger that records transactions across multiple computers. It ensures transparency, security, and trust in financial transactions by linking blocks of data together in a sequential and cryptographically secure manner.
+1. A blockchain is a decentralized and immutable digital ledger that records transactions across multiple computers. It ensures transparency, security, and trust in financial transactions by linking blocks of data together in a sequential and cryptographically secure manner.
 
 # Instructions to compile and run the code
 
@@ -8,7 +8,7 @@ This project is written in C++ and requires Mingw C/C++ compiler to compile and 
 ## Installation
 
 1. Downlode and install MinGW compiler from the internet
-2. Add `C:\MinGW\bin` path to the system `PATH` variable
+2. Add `C:\MinGW\bin` path to the system environment variable `PATH`
 
 ## Building and Running the Project
 
