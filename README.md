@@ -2,7 +2,6 @@
 A blockchain is a decentralized and immutable digital ledger that records transactions across multiple computers. It ensures transparency, security, and trust in financial transactions by linking blocks of data together in a sequential and cryptographically secure manner.
 
 # Instructions to compile and run the code
-# C++ Project
 
 This project is written in C++ and requires Mingw C/C++ compiler to compile and run the code.
 
